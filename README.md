@@ -1,6 +1,6 @@
 ## Responsive Week Schedule
- Turn any Html Table into a responsive table, for browser size under 750px,
- displaying the current day schedule and a navigation arrows left and right.
+ Turn any Html Table into a "responsive" week schedule.
+ For screen size under 750px, it will display the current day and navigation arrows left and right.
 
  See [demo](https://www.lizardhost.gr/demos/responsive-schedule-table-github/)
 
